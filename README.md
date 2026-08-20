@@ -1,5 +1,16 @@
 # skillcheck
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-ready-2ea043?style=for-the-badge)
+![Zero Dependencies](https://img.shields.io/badge/Dependencies-0-4c1d95?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![PyPI](https://img.shields.io/pypi/v/skillcheck?style=for-the-badge&logo=pypi&logoColor=white&color=3776AB)
+
+</div>
+
+
 **Validate Agent Skills (SKILL.md) directories** — catch missing fields, malformed frontmatter, and broken file references before your agent silently loses a skill.
 
 ```bash
